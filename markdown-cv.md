@@ -1,8 +1,8 @@
 <!--Blockquote -->
 >| __IBRAHIM SERHANE__ |
 >|------|
->
---------------------------------------------------------------------  img src="123.jpg" alt="Girl in a jacket" style="width:100px;height:100px;">
+>![image](123.jpg)
+
 <!--Headings -->
                                     Mashrek Building,2ndFloor 
                                Highway, Khalde, Aley District 
